@@ -311,34 +311,34 @@ export const benefits = [
 ];
 
 export const socials = [
-  {
-    id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
-  },
+  // {
+  //   id: "0",
+  //   title: "Discord",
+  //   iconUrl: discordBlack,
+  //   url: "#",
+  // },
   {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "www.twitter.com/hocdotwtf",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "http://www.instagram.com/hoc.wtf",
   },
-  {
-    id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
+  // {
+  //   id: "3",
+  //   title: "Telegram",
+  //   iconUrl: telegram,
+  //   url: "#",
+  // },
   {
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/profile.php?id=61560081428505&mibextid=LQQJ4d",
   },
 ];
